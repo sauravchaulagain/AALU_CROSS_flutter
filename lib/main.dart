@@ -50,7 +50,7 @@ class HomeScreen extends StatelessWidget {
                   borderRadius: BorderRadius.circular(22)),
               child: Center(
                 child: Text(
-                  'Playyy Game!',
+                  'Play Game!',
                   style: GoogleFonts.roboto(
                     textStyle: TextStyle(
                       fontWeight: FontWeight.bold,
